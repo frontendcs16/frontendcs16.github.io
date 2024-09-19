@@ -1,0 +1,14 @@
+.bg {
+    background-image: url("bg.jpg");
+    background-position: revert;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-color: #000000;
+}
+
+.workinprogress {
+    color: bisque;
+    font-size: 50px;
+    text-align: left;
+    top: 500px;
+};
